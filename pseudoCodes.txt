@@ -1,0 +1,20 @@
+THIS IS WHERE CODE IDEAS ARE WRITTEN IN PSEUDOCODES
+
+
+**Dynamic Table from scratch**
+
+--Initial Idea/Solution
+1. Create a static array.
+2. Create a function, loop through the array.
+3. Create the table, row, table header and table data.
+4. Give the table header value.
+5. Give the cells value.
+6. Append cells to row, and row to table.
+
+--Modified Solution
+1. Created a static array.
+2. Created a function.
+3. Created another array for table header titles.
+4. Created a loop to iterate and append the elements in the headers array to the row and table.
+5. Created another loop which creates a row fo each student in the array, appends individual object from the array to td.
+6. At the end of the function, appended the whole generated table to the div with the table-el.
